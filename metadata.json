@@ -1,0 +1,6 @@
+{
+  "name": "Badam Chhakka - Traditional Bengali Card Game",
+  "description": "Authentic Badam Chhakka (Sevens) card game featuring traditional 6♥ start, 5♥ blocking rule, smart bots, tournament mode, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
